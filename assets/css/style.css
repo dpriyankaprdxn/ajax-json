@@ -120,8 +120,17 @@ li {
   main styling starts here
 =================================*/
 
+li { 
+  box-sizing: border-box;
+  width: 15%;
+  padding: 2px 2%;
+  margin: 10px 2%;
+  border: 1px solid #ccc ;
+}
 
+h3 { font-size: 20px; }
 
+p { font-size: 15px; }
 
 
 
